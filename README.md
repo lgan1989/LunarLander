@@ -10,4 +10,4 @@ _Xinlu Tong_
 _Wenbo Yuan_
 
 ## License
-All resources and codes in this project are all free to use with no limitation.
+All resources and codes in this project are free to use with no limitation.
