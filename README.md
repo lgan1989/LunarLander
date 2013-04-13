@@ -22,7 +22,7 @@ Note: The client and server are required to have the same screen resolution, oth
 ## Authors
 
 Lu Gan(lu.mark.gan@gmail.com)
-Xinlu Tong
+Xinlu Tong(xinlut1990@gmail.com or xinlut@uci.edu)
 Wenbo Yuan
 
 ## License
